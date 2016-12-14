@@ -11,5 +11,5 @@ hamburger | 300 | Not in Dictionary
 .|.|.
 
 # How to run
-
+*Please put the steps to run the program or if is a just a code we can run in jupyter*
 
