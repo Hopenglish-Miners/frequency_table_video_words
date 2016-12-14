@@ -5,8 +5,8 @@ Frequency Table for video words
 
 
 # Goal
-word | frequency | level
------------- | -------------
+word         | frequency     | level
+------------ | ------------- | -------------
 potato | 1000 | 1
 hamburger | 300 | Not in Dictionary
 .|.|.
